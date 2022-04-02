@@ -1,0 +1,34 @@
+<collection>
+<movie title = "Enemy Behind">
+<type>War,Thriller </type>
+<format> DVD </format>
+<year>2003</year>
+<rating>PG</rating>
+<stars>10</stars>
+<description> Us-Japan War </description>
+</movie> 
+<movie title = "Transformers">
+<type>Anime,Science Fiction </type>
+<format> DVD </format>
+<year>2003</year>
+<rating>R</rating>
+<stars>10</stars>
+<description> A Scientific Fiction</description>
+</movie> 
+<movie title = "Tigrun">
+<type>Anime,Action </type>
+<format> DVD </format>
+<year>2003</year>
+<rating>PG</rating>
+<stars>10</stars>
+<description> Vash the Stampede</description>
+</movie> 
+<movie title = "Ishtar">
+<type>Comedy</type>
+<format> VHS </format>
+<year>2003</year>
+<rating>GE</rating>
+<stars>2</stars>
+<description> Veiwable Boredom </description>
+</movie> 
+</collection>
